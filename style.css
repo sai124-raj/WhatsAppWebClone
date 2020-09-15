@@ -1,0 +1,74 @@
+.whts-main{
+    background-image: url(img/whtsappback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.whts-main .container{
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+img{
+    height:25px;
+    width: 25px;
+}
+.tp{
+    background-color: #ededed;
+}
+.searcrow{
+    background-color: #f7f6f6;
+}
+.search-icon i{
+    background-color: #fff;
+    padding: .4em .5em;
+    padding-right: .7em;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.searchbox input{
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#dp{
+    width: 3em;
+}
+.cont{
+    background-color: #fff;
+    border-bottom: 1px solid #dee2e6;
+}
+.contex p{
+    font-weight: 400;
+    font-size: 1.4em;
+    margin-bottom: 0;
+}
+.interbef{
+    height: 70%;
+}
+.interaff{
+    height: 30%;
+    border-bottom: 5px solid #25D366;
+}
+.inter{
+    position: relative;
+}
+.intcol{
+    background-color: #f8f9fb;
+}
+.inter img{
+    width: 45%;
+    height: 60%;
+    position: absolute;
+    bottom: 20%;
+}
+.inttex .ti{
+    font-weight: 400;
+    font-size: 1.4em;
+}
+.inttex p strong{
+    color: #25D366;
+    font-weight: 500;
+}
